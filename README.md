@@ -1,2 +1,2 @@
 # JAVA
-This repository will consist of easy to difficult codes of basic java concepts
+This repository will consist of easy to difficult codes of java concepts
